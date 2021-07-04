@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+.light {
+  color: black;
+  background: white
+}
+
+.dark {
+  color: white;
+  background: black;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+}
