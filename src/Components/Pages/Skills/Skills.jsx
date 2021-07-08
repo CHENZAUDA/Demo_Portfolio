@@ -82,7 +82,7 @@ function Skills() {
             <StyledAboutMePage>
                 <AboutMeBody>
                     <AboutMeImage>
-                        <img src="img/mePic.jpg" alt="About me" />
+                        <img src="/portfolio/img/mePic.jpg" alt="About me" />
                     </AboutMeImage>
                     <AboutMeDetails>
                         <span>Hello & Welcome</span>

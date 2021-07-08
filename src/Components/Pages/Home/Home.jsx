@@ -73,9 +73,9 @@ function Home() {
                         <h1>I AM Chen Zauda</h1>
                         <MainPageHeaderDetails> 25 years old from Qiryat-Gat, student in Tech-Career.
                                     <Carousel>
-                                <img src="img/useReducer.jpg" width="100px" height="100px" alt="one" />
-                                <img src="img/useReducer2.jpg" width="100px" height="100px" alt="one" />
-                                <img src="img/useReducer3.jpg" width="100px" height="100px" alt="one" />
+                                <img src="/portfolio/img/useReducer.jpg" width="100px" height="100px" alt="one" />
+                                <img src="/portfolio/img/useReducer2.jpg" width="100px" height="100px" alt="one" />
+                                <img src="/portfolio/img/useReducer3.jpg" width="100px" height="100px" alt="one" />
                             </Carousel>
                         </MainPageHeaderDetails>
                     </MainPageHeaderLight>

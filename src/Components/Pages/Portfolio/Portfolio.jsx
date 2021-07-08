@@ -49,10 +49,10 @@ function Portfolio() {
               <MainPageBody>
                    <h1>Portfolio</h1>
                   <StyledProjects>
-                  <Project name="Calculater" git="https://github.com/CHENZAUDA/calculater" site=" https://chenzauda.github.io/calculater/" image="img/calculator.jpg"/>
-                  <Project name="Flex Model"  git="https://github.com/CHENZAUDA/flex.model" site=" https://chenzauda.github.io/flex.model/" image="img/flexModel.jpg"/>  
-                  <Project name="Resume"  git="https://github.com/CHENZAUDA/resume" site="https://chenzauda.github.io/resume/" image="img/resume.jpg"/>
-                  <Project name="Gallery"  git="https://github.com/CHENZAUDA/gallery" site="https://chenzauda.github.io/gallery/" image="img/gallery.jpg"/>
+                  <Project name="Calculater" git="https://github.com/CHENZAUDA/calculater" site=" https://chenzauda.github.io/calculater/" image="/portfolio/img/calculator.jpg"/>
+                  <Project name="Flex Model"  git="https://github.com/CHENZAUDA/flex.model" site=" https://chenzauda.github.io/flex.model/" image="/portfolio/img/flexModel.jpg"/>  
+                  <Project name="Resume"  git="https://github.com/CHENZAUDA/resume" site="https://chenzauda.github.io/resume/" image="/portfolio/img/resume.jpg"/>
+                  <Project name="Gallery"  git="https://github.com/CHENZAUDA/gallery" site="https://chenzauda.github.io/gallery/" image="/portfolio/img/gallery.jpg"/>
                   </StyledProjects>
               </MainPageBody>
           </StyledMainPage>
